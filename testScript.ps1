@@ -1,5 +1,5 @@
 # Define the IP address and port number
-$ipAddress = "192.168.1.100"
+$ipAddress = "192.168.1.110"
 $port = 22
 
 # Create a firewall rule to allow SSH traffic from the specified IP address
