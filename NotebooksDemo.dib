@@ -1,0 +1,26 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"pwsh","items":[{"aliases":[],"languageName":"pwsh","name":"pwsh"}]}}
+
+#!pwsh
+
+get-help 
+
+#!markdown
+
+Security Engineer Daily task list
+Date: 10/10/2023
+
+1. Run port scan
+
+#!pwsh
+
+#this is the code that runs the port scan
+
+#!markdown
+
+2. Check for new vulnerabilities
+
+#!pwsh
+
+#this is the  code that shows new vulnerabilities from an api
